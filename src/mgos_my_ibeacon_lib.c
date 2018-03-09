@@ -252,6 +252,6 @@ int ibeacon_stop_adv() {
     return 0;
 }
 
-bool mgos_my_ibeacon_lib_init(void) {
+bool mgos_esp32_ibeacon_init(void) {
     return true;
 }
