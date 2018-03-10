@@ -3,8 +3,7 @@
 
 ## Overview
 
-This blank library is intended to be used as a skeleton for deleloping
-Mongoose OS libraries.
+This library is intended to be used as a sample for iBeacon advertising.
 
 
 ## Usage
